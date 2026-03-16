@@ -1,9 +1,9 @@
 package main
 
 import (
-	"auth-api/internal/handler"
-	"auth-api/internal/httpx"
-	"auth-api/internal/infrastructure/gateway"
+	"auth-api-go/internal/handler"
+	"auth-api-go/internal/httpx"
+	"auth-api-go/internal/infrastructure/gateway"
 	"fmt"
 	"log"
 	"net/http"

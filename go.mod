@@ -1,4 +1,4 @@
-module auth-api
+module auth-api-go
 
 go 1.26.1
 

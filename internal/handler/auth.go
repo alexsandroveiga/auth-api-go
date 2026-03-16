@@ -1,8 +1,8 @@
 package handler
 
 import (
-	"auth-api/internal/httpx"
-	"auth-api/internal/infrastructure/gateway"
+	"auth-api-go/internal/httpx"
+	"auth-api-go/internal/infrastructure/gateway"
 	"encoding/json"
 	"fmt"
 	"net/http"

@@ -1,7 +1,7 @@
 package gateway
 
 import (
-	"auth-api/internal/domain"
+	"auth-api-go/internal/domain"
 	"bytes"
 	"encoding/json"
 	"errors"
